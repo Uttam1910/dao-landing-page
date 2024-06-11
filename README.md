@@ -52,14 +52,14 @@ dao-landing-page/
 ├── logo.png         # Placeholder logo image
 └── bg.png           # Placeholder background image
 
-Contributing
+**## Contributing**
 Contributions are welcome! Please follow these steps to submit your improvements:
 
-Fork the repository.
+**## Fork the repository**.
 Create a new branch (git checkout -b feature/YourFeature).
 Commit your changes (git commit -am 'Add some feature').
 Push to the branch (git push origin feature/YourFeature).
 Open a Pull Request.
 
-License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+**## License**
+This project is licensed under the MIT License - See the [LICENSE](license) file for details.
